@@ -1,4 +1,4 @@
-#Chat AI
+# Chat AI
 
 This project is a ChatGPT-like chat application built using Node.js, React (Vite), and OpenAI's API for generating AI-powered responses. It provides a simple and interactive chat interface where users can engage in conversations with an AI, powered by OpenAI's language models.
 
